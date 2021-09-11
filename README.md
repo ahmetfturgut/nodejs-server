@@ -1,16 +1,4 @@
- # Nodejs-Restapi-Boilerplate
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5e98f54d5b3a41ae87355a3106c889cf)](https://www.codacy.com/gh/ahmetfturgut/nodejs-server/dashboard?utm_source=github.com&utm_medium=referral&utm_content=ahmetfturgut/nodejs-server&utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.com/ahmetfturgut/nodejs-server.svg?branch=master)](https://travis-ci.com/ahmetfturgut/nodejs-server)
-[![Coverage Status](https://coveralls.io/repos/github/ahmetfturgut/nodejs-server/badge.svg?branch=master)](https://coveralls.io/github/ahmetfturgut/nodejs-server?branch=master)
-
-A Boilerplate/Starter Project for building RESTful APIs using Node.js, Express, and Mongoose.
-
-## Directory structure
-
-### Overview
-
+ 
 Project `src` structure directories.
 
 ```
