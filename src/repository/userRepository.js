@@ -15,10 +15,10 @@ exports.getAllUsers = async () => {
 };
 
 /**
- * @description Gets the all users
+ * @description Gets the user
  * @param id {property} User Id
- * @returns {Promise<[{users}]>}
- * user object array
+ * @returns {Promise<[{user}]>}
+ * user object
  */
 exports.getUser = async id => {
 	try {
